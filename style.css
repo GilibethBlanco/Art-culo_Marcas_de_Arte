@@ -1,0 +1,102 @@
+nav {
+position: sticky;
+top: 0;
+background: rgb(48, 217, 217);
+color: rgb(0, 0, 0);
+}
+
+ul {
+
+list-style: none;
+display: flex;
+justify-content: center;
+}
+
+a {
+text-decoration: none;
+color: rgb(0, 0, 0);
+padding: 5px;
+font-family: "Alfa Slab One", serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+li:hover{
+    background-color: rgb(138, 254, 254);
+    
+    
+}
+li{
+    padding: 10px;
+}
+img{
+    border-radius: 9px;
+    height: 350px;
+    width: 350px;
+    box-shadow: 0 0 20px 0 rgb(14, 252, 188);
+    text-align: center;
+}
+
+.parte1{
+
+    background: rgb(20,203,198);
+    background: linear-gradient(90deg, rgba(20,203,198,1) 0%, rgba(230,225,66,1) 35%, rgba(255,154,0,1) 100%); ;
+    padding: 10px;
+    height:200px ;
+
+    
+}
+
+.parte2{
+    display: flex;
+    justify-content: center;  
+} 
+
+h1{
+    color: white;
+    font-size: 90px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+body{
+    background-color: #faebda;
+}
+
+.alfa-slab-one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.comic-neue-regular {
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .cambio{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(48, 217, 217);
+}
+
+p {
+    color: rgb(0, 33, 90);
+}
+.cambio1 {
+    color: rgb(0, 153, 61);
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+  
